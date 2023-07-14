@@ -1,5 +1,5 @@
 # openwrt-device-scanner
-Scans for new devices in network and sends telegram notification
+Scans for new devices in network and sends telegram notification if a new device is detected
 
 ## Dependencies
 
